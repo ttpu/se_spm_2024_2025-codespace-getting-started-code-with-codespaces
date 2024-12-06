@@ -1,0 +1,9 @@
+{
+  // Bu konfiguratsiyaga nom bering
+  "name": "Codespace for Skills!",
+  // Asosiy codespace tasviridan foydalaning
+  "image": "mcr.microsoft.com/vscode/devcontainers/universal:latest",
+
+  "remoteUser": "codespace",
+  "overrideCommand": false
+}
